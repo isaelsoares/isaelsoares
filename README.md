@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ Isael GitHub stats ](https://github-readme-stats.vercel.app/api?isaelsoares=devfraga&show_icons=true&theme=dracula&count_private=true)
+![ Isael GitHub stats ](https://github-readme-stats.vercel.app/api?username=isaelsoares&show_icons=true&theme=dracula&count_private=true)
 
 <!--
 **isaelsoares/isaelsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
