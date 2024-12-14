@@ -3,8 +3,8 @@
 - Atualmente trabalho como QA e estou estudando para atuar na área de desenvolvimento web!
   
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelsoares&layout=compact&theme=aura">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=isaelsoares&theme=aura" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelsoares&layout=compact&theme=aura">
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=isaelsoares&theme=aura" />
 </div>
 
 <!--
