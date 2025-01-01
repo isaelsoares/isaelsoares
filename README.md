@@ -1,6 +1,10 @@
 ## Opaa, aqui é o Isael 👋
 
-- Atualmente trabalho como QA e estou estudando para atuar na área de desenvolvimento web!
+### Sobre:
+- Atuo como Analista de testes/QA
+- JavaScritp | React | Php | Laravel | TailwindCSS
+- Técnico em Informática para Internet
+- Visite meu <a href="https://www.linkedin.com/in/isaelsoares/">LinkedIn</a>
   
 <div>
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelsoares&layout=compact&theme=tokyonight">
