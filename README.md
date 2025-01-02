@@ -2,7 +2,7 @@
 
 ### Sobre:
 - Atuo como Analista de testes/QA
-- JavaScritp | React | Php | Laravel | TailwindCSS
+- JavaScript | React | PHP | Laravel | TailwindCSS
 - Técnico em Informática para Internet
 - Visite meu <a href="https://www.linkedin.com/in/isaelsoares/">LinkedIn</a>
   
