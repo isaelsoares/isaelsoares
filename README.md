@@ -1,15 +1,23 @@
-## Opaa, aqui é o Isael 👋
+# 👨‍💻 About Me
 
-### Sobre:
-- Atuo como Analista de testes/QA
-- JavaScript | React | PHP | Laravel | TailwindCSS
-- Técnico em Informática para Internet
-- Visite meu <a href="https://www.linkedin.com/in/isaelsoares/">LinkedIn</a>
-  
-<div>
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaelsoares&layout=compact&theme=tokyonight">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=isaelsoares&theme=tokyonight" />
-</div>
+Hi, I'm Isael 👋  
+
+I’m passionate about programming, especially web application development. Currently, I work as a **data analyst**, a field that also excites me for combining technology with data-driven decision making.  
+
+Here, you’ll find a mix of **personal projects, studies, and experiments** that reflect my continuous learning journey.  
+
+---
+
+### 🔧 Technologies of interest
+- React  
+- Next.js  
+- Tailwind CSS  
+- JavaScript  
+
+---
+
+📌 [My LinkedIn](https://www.linkedin.com/in/isaelsoares/)
+
 
 <!--
 **isaelsoares/isaelsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
